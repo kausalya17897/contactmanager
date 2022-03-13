@@ -1,0 +1,24 @@
+.col2{
+    display: flex;
+   
+}
+.col2>div{
+    flex: 1;
+}
+.addcontactgrp{
+    margin: 30px;
+}
+.addcontactvalue{
+    margin: 5px;
+}
+.list{
+    text-align: left;
+    border:1px solid grey;
+    padding: 10px;
+    margin: 5px;
+}
+span{
+    background-color: blue;
+    color:white;
+    height:30px;
+}
